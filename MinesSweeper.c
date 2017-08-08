@@ -1,5 +1,5 @@
 /*
- *       Filename:  sams_prof51.c
+ *       Filename:  MinesSweeper.c
  *    Description:  Minesweeper
  */
 
